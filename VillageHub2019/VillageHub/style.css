@@ -67,7 +67,7 @@ text-transform: uppercase;
 
 /*--- Home CSS --*/
 .home-inner {
-  background-image: url(https://github.com/dan-designs/VillageHub/blob/master/Assets/LandBG.png?raw=true)
+  background-image: url(https://github.com/dan-designs/VillageHub/blob/master/VillageHub2019/Assets/LandBG-01.png?raw=true)
 }
 .caption {
   width: 100%;
@@ -140,7 +140,7 @@ padding-bottom: 1rem;
 
 /*--- Start Features CSS --*/ 
 .fixed {
-  background-image: url(https://github.com/dan-designs/VillageHub/blob/master/Assets/FeaturesBG.png?raw=true);
+  background-image: url(https://github.com/dan-designs/VillageHub/blob/master/VillageHub2019/Assets/FeaturesBG-01.png?raw=true);
   z-index: -1;
 }
 .dark {
